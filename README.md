@@ -1,6 +1,6 @@
 # Ansible Role: PK-Delivery
 
-This role provides script which populate .ssh directories for newly created users (on first login) with the content from /root/pks/ directory. 
+This role provides a script that populates .ssh directories for newly created users (on the first login) with the content from /root/pks/ directory.
 
 ## Requirements
 
